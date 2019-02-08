@@ -4,6 +4,6 @@ Migrating to Ex Libris’ Alma provided the [University of Mary Washington (UMW)
 
 ![E-Book Dashboard in Alma Analytics](images/dashboard_overview.PNG "Overview Tab of E-Book Dashboard")
 
-## Dashboard Overview
+### Dashboard Overview
 
 The dashboard has three tabs. The Overview tab provides a quick snapshot of e-book usage and turnaways by platform and month. 
