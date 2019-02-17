@@ -4,7 +4,7 @@ This project describes a dashboard that was created in Alma Analytics to visuali
 
 * View [screenshots](/images) of the dashboard
 * Explore sample [PDF reports](/reports) that can be downloaded from the dashboard
-* Read about [how vendor platform names were customized](/sql) with [SQL code](/sql/platform.sql) 
+* Read about [how vendor platform names were customized](/sql) with SQL code 
 
 
 ![E-Book Dashboard in Alma Analytics](images/dashboard_overview.png "Overview Tab of E-Book Dashboard") 
