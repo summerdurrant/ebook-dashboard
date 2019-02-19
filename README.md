@@ -6,7 +6,7 @@ This project describes a dashboard that was created in Alma Analytics to visuali
 * Explore sample [PDF reports](/reports) that can be downloaded from the dashboard
 * Read about [how vendor platform names were customized](/sql) with SQL code
 
-The dashboard is shared in Alma Analytics in Shared Folders>Community>Reports>Institutions>University of Mary Washington>E-Book Dashboard Reports
+The dashboard is shared in Alma Analytics under Shared Folders>Community>Reports>Institutions>University of Mary Washington>E-Book Dashboard Reports
 
 
 ![E-Book Dashboard in Alma Analytics](images/dashboard_overview.png "Overview Tab of E-Book Dashboard") 
